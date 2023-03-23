@@ -72,7 +72,9 @@ void display() {
 
 int main()
 {
-    input
+    input();
+    insertionsort();
+    display();
 }
 
 
